@@ -1,19 +1,25 @@
 ## <p align="center">[[MICCAI 2024] PEPSI: Pathology-Enhanced Pulse-Sequence-Invariant Representations for Brain MRI](https://arxiv.org/abs/2403.06227)</p>
 
 
-**<p align="center">Peirong Liu<sup>1</sup>, Oula Puonti<sup>1</sup>, Annabel Sorby-Adams<sup>1</sup>, W. Taylor Kimberly<sup>1</sup>, Juan E. Iglesias<sup>1,2,3</sup></p>**
+**<p align="center">Contact: Peirong Liu (peirong[AT]jhu.edu)</sup></p>**
 
 <p align="center">
-<sup>1</sup>Harvard Medical School and Massachusetts General Hospital<br />
-<sup>2</sup>University College London &nbsp;&nbsp; <sup>3</sup>Massachusetts Institute of Technology
+Department of Electrical and Computer Engineering,<br/>
+Data Science and AI Institute,<br/>
+Johns Hopkins University
 </p>
+
+
 
 <p align="center">
   <img src="./assets/data_gen.png" alt="drawing", width="850"/>
 </p>
 
 
+
 ## News
+
+[01/29/2026] We leveled up our synthesis to **bidirectional generation and editing** between healthy and diseased anatomy! Check out our new preprint [here](https://arxiv.org/abs/2512.00269) and code [here](https://github.com/jhuldr/USB).
 
 [02/26/2025] Check out our latest CVPR'2025 work [here](https://github.com/peirong26/UNA) on synthesizing normal anatomy from diseased inputs via fluid-driven anomaly randomization.
 
