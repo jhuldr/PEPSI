@@ -27,7 +27,7 @@ Johns Hopkins University
 
 
 ## Environment
-Training and evaluation environment: Python 3.11.4, PyTorch 2.0.1, CUDA 12.2. Run the following command to install required packages.
+Training and evaluation environment: Python 3.11.4, PyTorch 2.0.1, CUDA 12.2. Run the following command to install the required packages.
 ```
 conda create -n pepsi python=3.11
 conda activate pepsi
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### Playing with PEPSI Anatomy & Pathology Image Synthesizer and Feature Extractor
 
-Please download PEPSI pre-trained weights (pepsi_pretrained.pth), and test images with pathologies (T1w.nii.gz, FLAIR.nii.gz) in this [Google Drive folder](https://drive.google.com/drive/folders/1Wbnjc8sf8T_YIjc91k0b2gMOQ5kz0Dw9?usp=sharing), and move them into the './assets' folder.
+Please download PEPSI pre-trained weights (pepsi_pretrained.pth), and test images with pathologies (T1w.nii.gz, FLAIR.nii.gz) in this [OneDrive folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/pliu53_jh_edu/IgCeruOpJ7hsR5JPQZS8DltcAWVC3SmBxw4P0p7Kr-qMSg4?e=LOdVj4), and move them into the './assets' folder.
 
 
 Obtain PEPSI synthesized MP-RAGE & FLAIR & features using the following code.
