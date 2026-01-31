@@ -139,7 +139,7 @@ You could customize your own task by creating your own `cfgs/train/task_seg.yaml
 
 ## Download the Public Datasets
 
-- PEPSI pre-trained model and test images: [Google Drive](https://drive.google.com/drive/folders/1Wbnjc8sf8T_YIjc91k0b2gMOQ5kz0Dw9?usp=sharing)
+- PEPSI pre-trained model and test images: [OneDrive folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/pliu53_jh_edu/IgCeruOpJ7hsR5JPQZS8DltcAWVC3SmBxw4P0p7Kr-qMSg4?e=LOdVj4)
 
 - ATLAS dataset: Request data from [official website](https://fcon_1000.projects.nitrc.org/indi/retro/atlas.html). 
 
